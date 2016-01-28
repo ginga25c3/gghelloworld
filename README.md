@@ -1,3 +1,0 @@
-# gghelloworld
-ddd
-ddd
